@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadora-redux-react/static/css/main.e28a36dd.css",
+    "main.js": "/calculadora-redux-react/static/js/main.cccf6a10.js",
+    "static/media/icon-delete.svg": "/calculadora-redux-react/static/media/icon-delete.6d2705c4a307e442df8746d460ea91a2.svg",
+    "index.html": "/calculadora-redux-react/index.html",
+    "main.e28a36dd.css.map": "/calculadora-redux-react/static/css/main.e28a36dd.css.map",
+    "main.cccf6a10.js.map": "/calculadora-redux-react/static/js/main.cccf6a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28a36dd.css",
+    "static/js/main.cccf6a10.js"
+  ]
+}
